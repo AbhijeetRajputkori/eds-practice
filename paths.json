@@ -1,6 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/abhijeet-eds-practice/:/",
+    "/content/abhijeet-eds-practice/configuration/.helix/config.json",
+    "/content/abhijeet-eds-practice/metadata:/metadata.json"
   ],
   "includes": [
     "/content/aem-boilerplate/"
